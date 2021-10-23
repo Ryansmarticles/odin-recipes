@@ -1,0 +1,1 @@
+This will be a basic recipe website. It will demonstrate fundamental HTML formatting, use of images, and further reinforce the topics learned up to this point.
